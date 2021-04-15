@@ -3,6 +3,6 @@ package main
 import "fmt"
 
 func main(){
-	fmt.Println("Actulización del Archivo 2");
+	fmt.Println("Archivo 2 actualizado");
 }
 
